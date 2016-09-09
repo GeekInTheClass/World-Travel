@@ -1,7 +1,7 @@
 # World-Travel(글과 사진으로 떠나는 세계여행!)
 
 ##1.인도
-
+![Alt text](/parth/to/img.jpg)
 ##2.네팔
 
 ##3.중국
