@@ -1,6 +1,4 @@
-# 인도여행
-
-![Alt text](http://postfiles5.naver.net/20140730_196/jiwon17ar_1406687185936gjCWJ_JPEG/1135.jpg?type=w1)
+# 출발
 
 2013년 1월 8일 13시 50분 인천국제 공항
  
